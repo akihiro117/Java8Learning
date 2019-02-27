@@ -1,1 +1,3 @@
 # Java8Learning
+
+このプロジェクトは、stream APIなどのJava8から加わった機能を練習するためのプロジェクトです。
